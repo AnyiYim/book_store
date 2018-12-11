@@ -1,0 +1,6 @@
+/bin/
+/include/
+/lib/
+/store_server/lib
+/store_server/db.sqlite3
+
